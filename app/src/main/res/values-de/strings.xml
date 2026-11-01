@@ -1,0 +1,15 @@
+<resources>
+    <string name="no_contract">Kein Vertrag geladen</string>
+    <string name="loading">Lade…</string>
+    <string name="open_package">Pachtpaket öffnen</string>
+    <string name="signer_name">Name des Unterzeichners</string>
+    <string name="draw_signature">Unterschrift zeichnen</string>
+    <string name="clear">Löschen</string>
+    <string name="share_signed">Unterschriebenen Vertrag senden</string>
+    <string name="tap_to_place">Tippe auf die Seite, an der die Unterschrift stehen soll</string>
+    <string name="signature_empty">Bitte zuerst eine Unterschrift zeichnen</string>
+    <string name="signature_missing">Unterschrift zeichnen und durch Tippen auf der Seite platzieren</string>
+    <string name="name_missing">Bitte den Namen des Unterzeichners eingeben</string>
+    <string name="load_failed">Paket konnte nicht geöffnet werden: %1$s</string>
+    <string name="export_failed">Unterschriebener Vertrag konnte nicht erstellt werden: %1$s</string>
+</resources>
